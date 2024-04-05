@@ -11,3 +11,5 @@ Text added on develop branch
 text on 6-wiki-updated branch
 
 text on 5-a-new-feature-added branch
+
+text on 4-bug-issue-resolved branch
