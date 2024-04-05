@@ -3,5 +3,3 @@
 This the text from the owner of the repository
 
 А это мой текст
-
-Текст добавлен на ветке develop
